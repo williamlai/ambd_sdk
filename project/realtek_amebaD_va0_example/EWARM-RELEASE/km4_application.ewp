@@ -949,17 +949,14 @@
                 </option>
                 <option>
                     <name>IlinkUseExtraOptions</name>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>IlinkExtraOptions</name>
-                    <state>--redirect aesccmp_construct_mic_iv=aesccmp_construct_mic_iv_ram</state>
-                    <state>--redirect aesccmp_construct_mic_header1=aesccmp_construct_mic_header1_ram</state>
-                    <state>--redirect aesccmp_construct_ctr_preload=aesccmp_construct_ctr_preload_ram</state>
-                    <state>--redirect rom_psk_CalcGTK=ram_patch_rom_psk_CalcGTK</state>
-                    <state>--redirect rom_psk_CalcPTK=ram_patch_rom_psk_CalcPTK</state>
-                    <state>--redirect aes_80211_encrypt=ram_patch_aes_80211_encrypt</state>
-                    <state>--redirect aes_80211_decrypt=ram_patch_aes_80211_decrypt</state>
+                    <state>--redirect malloc=__wrap_malloc</state>
+                    <state>--redirect realloc=__wrap_realloc</state>
+                    <state>--redirect calloc=__wrap_calloc</state>
+                    <state>--redirect free=__wrap_free</state>
                 </option>
                 <option>
                     <name>IlinkLowLevelInterfaceSlave</name>
@@ -13324,6 +13321,9 @@
     <group>
         <name>misc</name>
         <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\utilities\source\ram\libc_wrap.c</name>
+        </file>
+        <file>
             <name>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc\rtl8721d_ota.c</name>
         </file>
     </group>
@@ -24114,6 +24114,9 @@
                         <name>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls-2.4.0\library\cmac.c</name>
                     </file>
                     <file>
+                        <name>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls-2.4.0\library\ctr_drbg.c</name>
+                    </file>
+                    <file>
                         <name>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls-2.4.0\library\debug.c</name>
                     </file>
                     <file>
@@ -24121,6 +24124,9 @@
                     </file>
                     <file>
                         <name>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls-2.4.0\library\entropy.c</name>
+                    </file>
+                    <file>
+                        <name>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls-2.4.0\library\entropy_alt.c</name>
                     </file>
                     <file>
                         <name>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls-2.4.0\library\entropy_poll.c</name>

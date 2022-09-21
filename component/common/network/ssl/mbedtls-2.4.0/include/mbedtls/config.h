@@ -21,7 +21,6 @@
 #define CONFIG_SSL_RSA          0
 #include "baidu_ca_mbedtls_config.h"
 #elif defined(CONFIG_SSL_RSA) && CONFIG_SSL_RSA
-#include "platform_stdlib.h"
 #include "mbedtls/config_rsa.h"
 #else
 #include "platform_stdlib.h"

@@ -369,17 +369,20 @@ define exported symbol mbedtls_mpi_fill_random = 0x101222af;
 define exported symbol mbedtls_mpi_inv_mod = 0x101224f9;
 define exported symbol mbedtls_mpi_is_prime = 0x101227b5;
 define exported symbol mbedtls_mpi_gen_prime = 0x10122809;
-define exported symbol mbedtls_ctr_drbg_init = 0x10122ae9;
-define exported symbol mbedtls_ctr_drbg_free = 0x10122af9;
-define exported symbol mbedtls_ctr_drbg_set_prediction_resistance = 0x10122b17;
-define exported symbol mbedtls_ctr_drbg_set_entropy_len = 0x10122b1b;
-define exported symbol mbedtls_ctr_drbg_set_reseed_interval = 0x10122b1f;
-define exported symbol mbedtls_ctr_drbg_update = 0x10122b23;
-define exported symbol mbedtls_ctr_drbg_reseed = 0x10122b47;
-define exported symbol mbedtls_ctr_drbg_seed_entropy_len = 0x10122bc5;
-define exported symbol mbedtls_ctr_drbg_seed = 0x10122c19;
-define exported symbol mbedtls_ctr_drbg_random_with_add = 0x10122c2b;
-define exported symbol mbedtls_ctr_drbg_random = 0x10122cf1;
+
+/* MbedTls CTR_DRBG in ROM seems not working. */
+// define exported symbol mbedtls_ctr_drbg_init = 0x10122ae9;
+// define exported symbol mbedtls_ctr_drbg_free = 0x10122af9;
+// define exported symbol mbedtls_ctr_drbg_set_prediction_resistance = 0x10122b17;
+// define exported symbol mbedtls_ctr_drbg_set_entropy_len = 0x10122b1b;
+// define exported symbol mbedtls_ctr_drbg_set_reseed_interval = 0x10122b1f;
+// define exported symbol mbedtls_ctr_drbg_update = 0x10122b23;
+// define exported symbol mbedtls_ctr_drbg_reseed = 0x10122b47;
+// define exported symbol mbedtls_ctr_drbg_seed_entropy_len = 0x10122bc5;
+// define exported symbol mbedtls_ctr_drbg_seed = 0x10122c19;
+// define exported symbol mbedtls_ctr_drbg_random_with_add = 0x10122c2b;
+// define exported symbol mbedtls_ctr_drbg_random = 0x10122cf1;
+
 define exported symbol mbedtls_des_init = 0x10122d11;
 define exported symbol mbedtls_des_free = 0x10122d1d;
 define exported symbol mbedtls_des3_init = 0x10122d25;

@@ -89,7 +89,7 @@ extern uint32_t SystemCoreClock;
 #else
 #define configTOTAL_HEAP_SIZE						( ( size_t ) ( 40 * 1024 ) )
 #endif
-#define  CONFIG_DYNAMIC_HEAP_SIZE                       0
+#define  CONFIG_DYNAMIC_HEAP_SIZE                       1
 
 /* Configure PSRAM usage. Set 0 to default, set 1 to include psram into heap. */
 #define configUSE_PSRAM_FOR_HEAP_REGION					0

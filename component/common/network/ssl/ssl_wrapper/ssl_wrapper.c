@@ -19,5 +19,11 @@ void mbedtls_sha256_finish_ret(mbedtls_sha256_context *ctx, unsigned char output
 
 void mbedtls_sha256_ret(const unsigned char *input, size_t ilen, unsigned char output[32], int is224)
 {
-    mbedtls_sha256(input, ilen, output, is224);
+    mbedtls_sha256_context ctx;
+
+    mbedtls_sha256_init(&ctx );
+
+    mbedtls_sha256_starts_ret(&ctx, is224);
+    mbedtls_sha256_update_ret(&ctx, input, ilen);
+    mbedtls_sha256_finish_ret(&ctx, output);
 }
