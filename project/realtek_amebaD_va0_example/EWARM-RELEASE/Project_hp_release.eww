@@ -10,6 +10,9 @@
         <path>$WS_DIR$\km4_secure.ewp</path>
     </project>
     <project>
+        <path>$WS_DIR$\lib_aws_polly.ewp</path>
+    </project>
+    <project>
         <path>$WS_DIR$\lib_llhttp.ewp</path>
     </project>
     <batchBuild />

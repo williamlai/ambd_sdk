@@ -13212,6 +13212,9 @@
             </excluded>
         </file>
         <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc\bsp\lib\common\IAR\lib_aws_polly.a</name>
+        </file>
+        <file>
             <name>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc\bsp\lib\common\IAR\lib_coap.a</name>
         </file>
         <file>

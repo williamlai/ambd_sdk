@@ -13,4 +13,5 @@ project/realtek_amebaD_va0_example/EWARM-RELEASE/Debug/
 NULL
 build_info.h
 
+component/soc/realtek/amebad/misc/bsp/lib/common/IAR/lib_aws_polly.a
 component/soc/realtek/amebad/misc/bsp/lib/common/IAR/lib_llhttp.a

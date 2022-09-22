@@ -1,0 +1,3 @@
+[submodule "lib/aws-polly-c"]
+	path = lib/aws-polly-c
+	url = https://github.com/williamlai/aws-polly-c.git
