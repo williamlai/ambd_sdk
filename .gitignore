@@ -1,5 +1,6 @@
 project/realtek_amebaD_va0_example/EWARM-RELEASE/Debug/
 *.dep
+*.ewt
 *.log
 *.cspy.bat
 *.cspy.ps1
@@ -11,3 +12,5 @@ project/realtek_amebaD_va0_example/EWARM-RELEASE/Debug/
 *.dnx
 NULL
 build_info.h
+
+component/soc/realtek/amebad/misc/bsp/lib/common/IAR/lib_llhttp.a

@@ -66,7 +66,7 @@
                 </option>
                 <option>
                     <name>OGLastSavedByProductVersion</name>
-                    <state>8.30.1.17146</state>
+                    <state>8.32.1.18618</state>
                 </option>
                 <option>
                     <name>GeneralEnableMisra</name>
@@ -215,7 +215,7 @@
             <name>ICCARM</name>
             <archiveVersion>2</archiveVersion>
             <data>
-                <version>34</version>
+                <version>35</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -610,6 +610,10 @@
                     <name>IccRTTI2</name>
                     <state>0</state>
                 </option>
+                <option>
+                    <name>OICompilerExtraOption</name>
+                    <state>1</state>
+                </option>
             </data>
         </settings>
         <settings>
@@ -836,7 +840,7 @@
             <name>ILINK</name>
             <archiveVersion>0</archiveVersion>
             <data>
-                <version>21</version>
+                <version>22</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -1155,6 +1159,10 @@
                     <name>IlinkTrustzoneImportLibraryOut</name>
                     <state>km4_application_import_lib.o</state>
                 </option>
+                <option>
+                    <name>OILinkExtraOption</name>
+                    <state>1</state>
+                </option>
             </data>
         </settings>
         <settings>
@@ -1403,7 +1411,7 @@
             <name>ICCARM</name>
             <archiveVersion>2</archiveVersion>
             <data>
-                <version>34</version>
+                <version>35</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -1794,6 +1802,10 @@
                     <name>IccRTTI2</name>
                     <state>0</state>
                 </option>
+                <option>
+                    <name>OICompilerExtraOption</name>
+                    <state>1</state>
+                </option>
             </data>
         </settings>
         <settings>
@@ -2022,7 +2034,7 @@
             <name>ILINK</name>
             <archiveVersion>0</archiveVersion>
             <data>
-                <version>21</version>
+                <version>22</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -2344,6 +2356,10 @@
                     <name>IlinkTrustzoneImportLibraryOut</name>
                     <state>km4_application_import_lib.o</state>
                 </option>
+                <option>
+                    <name>OILinkExtraOption</name>
+                    <state>1</state>
+                </option>
             </data>
         </settings>
         <settings>
@@ -2592,7 +2608,7 @@
             <name>ICCARM</name>
             <archiveVersion>2</archiveVersion>
             <data>
-                <version>34</version>
+                <version>35</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -2983,6 +2999,10 @@
                     <name>IccRTTI2</name>
                     <state>0</state>
                 </option>
+                <option>
+                    <name>OICompilerExtraOption</name>
+                    <state>1</state>
+                </option>
             </data>
         </settings>
         <settings>
@@ -3210,7 +3230,7 @@
             <name>ILINK</name>
             <archiveVersion>0</archiveVersion>
             <data>
-                <version>21</version>
+                <version>22</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -3531,6 +3551,10 @@
                 <option>
                     <name>IlinkTrustzoneImportLibraryOut</name>
                     <state>km4_application_import_lib.o</state>
+                </option>
+                <option>
+                    <name>OILinkExtraOption</name>
+                    <state>1</state>
                 </option>
             </data>
         </settings>
@@ -3780,7 +3804,7 @@
             <name>ICCARM</name>
             <archiveVersion>2</archiveVersion>
             <data>
-                <version>34</version>
+                <version>35</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -4173,6 +4197,10 @@
                     <name>IccRTTI2</name>
                     <state>0</state>
                 </option>
+                <option>
+                    <name>OICompilerExtraOption</name>
+                    <state>1</state>
+                </option>
             </data>
         </settings>
         <settings>
@@ -4402,7 +4430,7 @@
             <name>ILINK</name>
             <archiveVersion>0</archiveVersion>
             <data>
-                <version>21</version>
+                <version>22</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -4724,6 +4752,10 @@
                     <name>IlinkTrustzoneImportLibraryOut</name>
                     <state>km4_application_import_lib.o</state>
                 </option>
+                <option>
+                    <name>OILinkExtraOption</name>
+                    <state>1</state>
+                </option>
             </data>
         </settings>
         <settings>
@@ -4765,7 +4797,7 @@
             <settings>
                 <name>ICCARM</name>
                 <data>
-                    <version>34</version>
+                    <version>35</version>
                     <wantNonLocal>1</wantNonLocal>
                     <debug>1</debug>
                     <option>
@@ -5115,6 +5147,10 @@
                     <option>
                         <name>IccRTTI2</name>
                         <state>0</state>
+                    </option>
+                    <option>
+                        <name>OICompilerExtraOption</name>
+                        <state>1</state>
                     </option>
                 </data>
             </settings>
@@ -5124,7 +5160,7 @@
             <settings>
                 <name>ICCARM</name>
                 <data>
-                    <version>34</version>
+                    <version>35</version>
                     <wantNonLocal>1</wantNonLocal>
                     <debug>1</debug>
                     <option>
@@ -5476,6 +5512,10 @@
                     <option>
                         <name>IccRTTI2</name>
                         <state>0</state>
+                    </option>
+                    <option>
+                        <name>OICompilerExtraOption</name>
+                        <state>1</state>
                     </option>
                 </data>
             </settings>
@@ -5485,7 +5525,7 @@
             <settings>
                 <name>ICCARM</name>
                 <data>
-                    <version>34</version>
+                    <version>35</version>
                     <wantNonLocal>1</wantNonLocal>
                     <debug>1</debug>
                     <option>
@@ -5838,6 +5878,10 @@
                         <name>IccRTTI2</name>
                         <state>0</state>
                     </option>
+                    <option>
+                        <name>OICompilerExtraOption</name>
+                        <state>1</state>
+                    </option>
                 </data>
             </settings>
         </configuration>
@@ -5846,7 +5890,7 @@
             <settings>
                 <name>ICCARM</name>
                 <data>
-                    <version>34</version>
+                    <version>35</version>
                     <wantNonLocal>1</wantNonLocal>
                     <debug>1</debug>
                     <option>
@@ -6200,6 +6244,10 @@
                     <option>
                         <name>IccRTTI2</name>
                         <state>0</state>
+                    </option>
+                    <option>
+                        <name>OICompilerExtraOption</name>
+                        <state>1</state>
                     </option>
                 </data>
             </settings>
@@ -6340,7 +6388,7 @@
                 <settings>
                     <name>ICCARM</name>
                     <data>
-                        <version>34</version>
+                        <version>35</version>
                         <wantNonLocal>0</wantNonLocal>
                         <debug>1</debug>
                         <option>
@@ -6775,7 +6823,7 @@
                 <settings>
                     <name>ICCARM</name>
                     <data>
-                        <version>34</version>
+                        <version>35</version>
                         <wantNonLocal>0</wantNonLocal>
                         <debug>1</debug>
                         <option>
@@ -7135,7 +7183,7 @@
             <settings>
                 <name>ICCARM</name>
                 <data>
-                    <version>34</version>
+                    <version>35</version>
                     <wantNonLocal>1</wantNonLocal>
                     <debug>1</debug>
                     <option>
@@ -7486,6 +7534,10 @@
                     <option>
                         <name>IccRTTI2</name>
                         <state>0</state>
+                    </option>
+                    <option>
+                        <name>OICompilerExtraOption</name>
+                        <state>1</state>
                     </option>
                 </data>
             </settings>
@@ -7495,7 +7547,7 @@
             <settings>
                 <name>ICCARM</name>
                 <data>
-                    <version>34</version>
+                    <version>35</version>
                     <wantNonLocal>1</wantNonLocal>
                     <debug>1</debug>
                     <option>
@@ -7848,6 +7900,10 @@
                     <option>
                         <name>IccRTTI2</name>
                         <state>0</state>
+                    </option>
+                    <option>
+                        <name>OICompilerExtraOption</name>
+                        <state>1</state>
                     </option>
                 </data>
             </settings>
@@ -7857,7 +7913,7 @@
             <settings>
                 <name>ICCARM</name>
                 <data>
-                    <version>34</version>
+                    <version>35</version>
                     <wantNonLocal>1</wantNonLocal>
                     <debug>1</debug>
                     <option>
@@ -8211,6 +8267,10 @@
                         <name>IccRTTI2</name>
                         <state>0</state>
                     </option>
+                    <option>
+                        <name>OICompilerExtraOption</name>
+                        <state>1</state>
+                    </option>
                 </data>
             </settings>
         </configuration>
@@ -8219,7 +8279,7 @@
             <settings>
                 <name>ICCARM</name>
                 <data>
-                    <version>34</version>
+                    <version>35</version>
                     <wantNonLocal>1</wantNonLocal>
                     <debug>1</debug>
                     <option>
@@ -8574,6 +8634,10 @@
                     <option>
                         <name>IccRTTI2</name>
                         <state>0</state>
+                    </option>
+                    <option>
+                        <name>OICompilerExtraOption</name>
+                        <state>1</state>
                     </option>
                 </data>
             </settings>
@@ -8836,9 +8900,9 @@
     </group>
     <group>
         <name>audio</name>
-	<excluded>
-		<configuration>is</configuration>
-	</excluded>
+        <excluded>
+            <configuration>is</configuration>
+        </excluded>
         <file>
             <name>$PROJ_DIR$\..\..\..\component\common\audio\resample\resample_48khz.c</name>
         </file>
@@ -8984,9 +9048,9 @@
             </group>
             <group>
                 <name>bt_airsync_config</name>
-		<excluded>
-			<configuration>is</configuration>
-		</excluded>
+                <excluded>
+                    <configuration>is</configuration>
+                </excluded>
                 <file>
                     <name>$PROJ_DIR$\..\..\..\component\common\application\airsync\1.0.4\airsync_ble_service.c</name>
                 </file>
@@ -9038,9 +9102,9 @@
             </group>
             <group>
                 <name>bt_beacon</name>
-		<excluded>
-			<configuration>is</configuration>
-		</excluded>
+                <excluded>
+                    <configuration>is</configuration>
+                </excluded>
                 <file>
                     <name>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_beacon\bt_beacon_app.c</name>
                 </file>
@@ -9297,9 +9361,9 @@
                     </group>
                     <group>
                         <name>lib</name>
-			<excluded>
-				<configuration>is</configuration>
-			</excluded>
+                        <excluded>
+                            <configuration>is</configuration>
+                        </excluded>
                         <file>
                             <name>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_mesh\lib\lib\amebad\btmesh_dev.a</name>
                         </file>
@@ -9435,9 +9499,9 @@
                     </group>
                     <group>
                         <name>lib</name>
-			<excluded>
-				<configuration>is</configuration>
-			</excluded>
+                        <excluded>
+                            <configuration>is</configuration>
+                        </excluded>
                         <file>
                             <name>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_mesh\lib\lib\amebad\btmesh_prov.a</name>
                         </file>
@@ -9922,15 +9986,15 @@
         <group>
             <name>usb_class</name>
             <excluded>
-            	<configuration>is</configuration>
+                <configuration>is</configuration>
             </excluded>
             <group>
                 <name>device</name>
                 <group>
                     <name>audio</name>
-		    <excluded>
-		    	<configuration>is</configuration>
-		    </excluded>
+                    <excluded>
+                        <configuration>is</configuration>
+                    </excluded>
                     <file>
                         <name>$PROJ_DIR$\..\..\..\component\common\drivers\usb\device\audio\src\usb_f_uac1.c</name>
                     </file>
@@ -9970,7 +10034,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -10335,7 +10399,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -10702,7 +10766,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -11069,7 +11133,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -11507,7 +11571,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -11872,7 +11936,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -12239,7 +12303,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -12606,7 +12670,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -13114,12 +13178,6 @@
     <group>
         <name>lib</name>
         <file>
-            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc\bsp\lib\common\IAR\lib_application_hp.a</name>
-            <excluded>
-                <configuration>is</configuration>
-            </excluded>
-        </file>
-        <file>
             <name>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\lib\btgap.a</name>
         </file>
         <file>
@@ -13148,6 +13206,12 @@
             </excluded>
         </file>
         <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc\bsp\lib\common\IAR\lib_application_hp.a</name>
+            <excluded>
+                <configuration>is</configuration>
+            </excluded>
+        </file>
+        <file>
             <name>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc\bsp\lib\common\IAR\lib_coap.a</name>
         </file>
         <file>
@@ -13161,6 +13225,9 @@
         </file>
         <file>
             <name>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc\bsp\lib\common\IAR\lib_httpd.a</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc\bsp\lib\common\IAR\lib_llhttp.a</name>
         </file>
         <file>
             <name>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc\bsp\lib\common\IAR\lib_mdns.a</name>
@@ -13358,7 +13425,7 @@
                         <settings>
                             <name>ICCARM</name>
                             <data>
-                                <version>34</version>
+                                <version>35</version>
                                 <wantNonLocal>0</wantNonLocal>
                                 <debug>1</debug>
                                 <option>
@@ -13723,7 +13790,7 @@
                         <settings>
                             <name>ICCARM</name>
                             <data>
-                                <version>34</version>
+                                <version>35</version>
                                 <wantNonLocal>0</wantNonLocal>
                                 <debug>1</debug>
                                 <option>
@@ -14090,7 +14157,7 @@
                         <settings>
                             <name>ICCARM</name>
                             <data>
-                                <version>34</version>
+                                <version>35</version>
                                 <wantNonLocal>0</wantNonLocal>
                                 <debug>1</debug>
                                 <option>
@@ -14457,7 +14524,7 @@
                         <settings>
                             <name>ICCARM</name>
                             <data>
-                                <version>34</version>
+                                <version>35</version>
                                 <wantNonLocal>0</wantNonLocal>
                                 <debug>1</debug>
                                 <option>
@@ -14824,20 +14891,12 @@
                 </group>
                 <group>
                     <name>host</name>
-                    <file>
-                    </file>
-                    <file>
-                    </file>
-                    <file>
-                    </file>
-                    <file>
-                    </file>
                     <configuration>
                         <name>is</name>
                         <settings>
                             <name>ICCARM</name>
                             <data>
-                                <version>34</version>
+                                <version>35</version>
                                 <wantNonLocal>0</wantNonLocal>
                                 <debug>1</debug>
                                 <option>
@@ -15205,7 +15264,7 @@
                         <settings>
                             <name>ICCARM</name>
                             <data>
-                                <version>34</version>
+                                <version>35</version>
                                 <wantNonLocal>0</wantNonLocal>
                                 <debug>1</debug>
                                 <option>
@@ -15574,7 +15633,7 @@
                         <settings>
                             <name>ICCARM</name>
                             <data>
-                                <version>34</version>
+                                <version>35</version>
                                 <wantNonLocal>0</wantNonLocal>
                                 <debug>1</debug>
                                 <option>
@@ -15943,7 +16002,7 @@
                         <settings>
                             <name>ICCARM</name>
                             <data>
-                                <version>34</version>
+                                <version>35</version>
                                 <wantNonLocal>0</wantNonLocal>
                                 <debug>1</debug>
                                 <option>
@@ -16312,1525 +16371,6 @@
                 </group>
             </group>
             <file>
-                <excluded>
-                    <configuration>is</configuration>
-                    <configuration>is (mp)</configuration>
-                    <configuration>tz</configuration>
-                    <configuration>tz (mp)</configuration>
-                </excluded>
-                <configuration>
-                    <name>is</name>
-                    <settings>
-                        <name>ICCARM</name>
-                        <data>
-                            <version>34</version>
-                            <wantNonLocal>0</wantNonLocal>
-                            <debug>1</debug>
-                            <option>
-                                <name>CCDefines</name>
-                                <state>CONFIG_PLATFORM_8721D</state>
-                                <state>__FPU_PRESENT</state>
-                                <state>CONFIG_USE_MBEDTLS_ROM_ALG</state>
-                                <state>CONFIG_FUNCION_O0_OPTIMIZE</state>
-                                <state>DM_ODM_SUPPORT_TYPE=32</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocFile</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocComments</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocLine</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCListCFile</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListCMnemonics</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListCMessages</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListAssFile</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCListAssSource</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEnableRemarks</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCDiagSuppress</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagRemark</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagWarning</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagError</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCObjPrefix</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCAllowList</name>
-                                <version>1</version>
-                                <state>11111110</state>
-                            </option>
-                            <option>
-                                <name>CCDebugInfo</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IEndianMode</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IProcessor</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IExtraOptionsCheck</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IExtraOptions</name>
-                                <state>--no_path_in_file_macros</state>
-                                <state>--cmse</state>
-                            </option>
-                            <option>
-                                <name>CCLangConformance</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCSignedPlainChar</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCRequirePrototypes</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCDiagWarnAreErr</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCCompilerRuntimeInfo</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IFpuProcessor</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>OutputFile</name>
-                                <state>$FILE_BNAME$.o</state>
-                            </option>
-                            <option>
-                                <name>CCLibConfigHeader</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>PreInclude</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraOverride</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCIncludePath2</name>
-                                <state>$PROJ_DIR$\..\..\..\component\os\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\portable\IAR\RTL8721D_HP\non_secure</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\portable\IAR\RTL8721D_HP\secure</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\cmsis\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\cmsis\device</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\fwlib\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\fwlib\rom_map_hp</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\app\monitor\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\app\xmodem</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\string</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\os_dep\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\os_dep\..\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\string</state>
-                                <state>$PROJ_DIR$\..\inc\inc_hp</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\platform</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\network</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\network\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\test</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\example</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\utilities</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\si</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\haac</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\hmp3</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\fdk-aac</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\libav</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\fdk-aac\libSYS\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hci</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\osdep</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\phydm</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\rtl8721d</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\rtl8721d\little_driver\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\wlan_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include\lwip</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include\netif</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\port\realtek</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\port\realtek\freertos</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\at_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi\rtw_wpa_supplicant\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\os_dep\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\inic\rtl8721d</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\polarssl-1.3.8\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\ssl_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls-2.4.0\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\targets\hal\rtl8721d\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\targets\hal\rtl8721d\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\hal_ext</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\external\mbedtls-port</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\WACServer\External\Curve25519</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\WACServer\External\GladmanAES</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\chacha</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\poly1305</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\ed25519</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\ed25519\core</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\sha512</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\fatfs\r0.10c\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\fatfs</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\ftl</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\framework\core</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\framework\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\duerapp\include</state>
-                                <state>$TOOLKIT_DIR$\inc\c</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\coap\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\sdio\realtek\sdio_host\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\core\option</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi\rtw_wpa_supplicant\src\crypto</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\amazon\amazon-freertos\lib\include\private</state>
-                                <state>$PROJ_DIR$\..\src\src_hp</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\ir\protocol</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\emWinLibrary\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Sample\rtl8721d\Config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Sample\rtl8721d\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Third_Party\truetype</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\ir\protocol</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\libcoap\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\lib</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src\hci</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src\vendor_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\common\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_central</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_peripheral</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_scatternet</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_airsync_config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_beacon</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_breeze</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\app</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\gap</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile\client</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile\server</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\os</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\platform</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\stack</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\src\mcu\module\data_uart_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\airsync\1.0.4</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\core\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\ref-impl</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\ref-impl\include\mbedtls</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\dct</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\libao</state>
-                            </option>
-                            <option>
-                                <name>CCStdIncCheck</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCCodeSection</name>
-                                <state>.text</state>
-                            </option>
-                            <option>
-                                <name>IProcessorMode2</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCOptLevel</name>
-                                <state>3</state>
-                            </option>
-                            <option>
-                                <name>CCOptStrategy</name>
-                                <version>0</version>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCOptLevelSlave</name>
-                                <state>3</state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraRules98</name>
-                                <version>0</version>
-                                <state>1000111110110101101110011100111111101110011011000101110111101101100111111111111100110011111001110111001111111111111111111111111</state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraRules04</name>
-                                <version>0</version>
-                                <state>111101110010111111111000110111111111111111111111111110010111101111010101111111111111111111111111101111111011111001111011111011111111111111111</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndRopi</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndRwpi</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndNoDynInit</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccLang</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccCDialect</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccAllowVLA</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccStaticDestr</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccCppInlineSemantics</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccCmsis</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccFloatSemantics</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCOptimizationNoSizeConstraints</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCNoLiteralPool</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCOptStrategySlave</name>
-                                <version>0</version>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCEncSource</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEncOutput</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEncOutputBom</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCEncInput</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccExceptions2</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccRTTI2</name>
-                                <state>0</state>
-                            </option>
-                        </data>
-                    </settings>
-                </configuration>
-                <configuration>
-                    <name>is (mp)</name>
-                    <settings>
-                        <name>ICCARM</name>
-                        <data>
-                            <version>34</version>
-                            <wantNonLocal>0</wantNonLocal>
-                            <debug>1</debug>
-                            <option>
-                                <name>CCDefines</name>
-                                <state>CONFIG_PLATFORM_8721D</state>
-                                <state>__FPU_PRESENT</state>
-                                <state>CONFIG_USE_MBEDTLS_ROM_ALG</state>
-                                <state>CONFIG_FUNCION_O0_OPTIMIZE</state>
-                                <state>DM_ODM_SUPPORT_TYPE=32</state>
-                                <state>CONFIG_MP_INCLUDED</state>
-                                <state>CONFIG_BT_MP</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocFile</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocComments</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocLine</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCListCFile</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListCMnemonics</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListCMessages</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListAssFile</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCListAssSource</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEnableRemarks</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCDiagSuppress</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagRemark</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagWarning</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagError</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCObjPrefix</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCAllowList</name>
-                                <version>1</version>
-                                <state>11111110</state>
-                            </option>
-                            <option>
-                                <name>CCDebugInfo</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IEndianMode</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IProcessor</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IExtraOptionsCheck</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IExtraOptions</name>
-                                <state>--no_path_in_file_macros</state>
-                                <state>--cmse</state>
-                            </option>
-                            <option>
-                                <name>CCLangConformance</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCSignedPlainChar</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCRequirePrototypes</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCDiagWarnAreErr</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCCompilerRuntimeInfo</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IFpuProcessor</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>OutputFile</name>
-                                <state>$FILE_BNAME$.o</state>
-                            </option>
-                            <option>
-                                <name>CCLibConfigHeader</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>PreInclude</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraOverride</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCIncludePath2</name>
-                                <state>$PROJ_DIR$\..\..\..\component\os\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\portable\IAR\RTL8721D_HP\non_secure</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\portable\IAR\RTL8721D_HP\secure</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\cmsis\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\cmsis\device</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\fwlib\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\fwlib\rom_map_hp</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\app\monitor\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\app\xmodem</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\string</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\os_dep\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\os_dep\..\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\string</state>
-                                <state>$PROJ_DIR$\..\inc\inc_hp</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\platform</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\network</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\network\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\test</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\example</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\utilities</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\si</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\haac</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\hmp3</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\fdk-aac</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\libav</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\fdk-aac\libSYS\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hci</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\osdep</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\phydm</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\rtl8721d</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\rtl8721d\little_driver\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\wlan_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include\lwip</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include\netif</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\port\realtek</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\port\realtek\freertos</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\at_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi\rtw_wpa_supplicant\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\os_dep\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\inic\rtl8721d</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\polarssl-1.3.8\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\ssl_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls-2.4.0\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\targets\hal\rtl8721d\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\targets\hal\rtl8721d\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\hal_ext</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\external\mbedtls-port</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\WACServer\External\Curve25519</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\WACServer\External\GladmanAES</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\chacha</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\poly1305</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\ed25519</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\ed25519\core</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\sha512</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\fatfs\r0.10c\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\fatfs</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\ftl</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\framework\core</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\framework\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\duerapp\include</state>
-                                <state>$TOOLKIT_DIR$\inc\c</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\coap\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\sdio\realtek\sdio_host\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\core\option</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi\rtw_wpa_supplicant\src\crypto</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\amazon\amazon-freertos\lib\include\private</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\emWinLibrary\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Sample\rtl8721d\Config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Sample\rtl8721d\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Third_Party\truetype</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\libcoap\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\lib</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src\hci</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src\vendor_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\common\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_central</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_peripheral</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_scatternet</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_airsync_config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_beacon</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_breeze</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\app</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\gap</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile\client</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile\server</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\os</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\platform</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\stack</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\src\mcu\module\data_uart_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\airsync\1.0.4</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\core\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\ref-impl</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\ref-impl\include\mbedtls</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\dct</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\libao</state>
-                            </option>
-                            <option>
-                                <name>CCStdIncCheck</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCCodeSection</name>
-                                <state>.text</state>
-                            </option>
-                            <option>
-                                <name>IProcessorMode2</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCOptLevel</name>
-                                <state>3</state>
-                            </option>
-                            <option>
-                                <name>CCOptStrategy</name>
-                                <version>0</version>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCOptLevelSlave</name>
-                                <state>3</state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraRules98</name>
-                                <version>0</version>
-                                <state>1000111110110101101110011100111111101110011011000101110111101101100111111111111100110011111001110111001111111111111111111111111</state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraRules04</name>
-                                <version>0</version>
-                                <state>111101110010111111111000110111111111111111111111111110010111101111010101111111111111111111111111101111111011111001111011111011111111111111111</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndRopi</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndRwpi</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndNoDynInit</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccLang</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccCDialect</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccAllowVLA</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccStaticDestr</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccCppInlineSemantics</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccCmsis</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccFloatSemantics</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCOptimizationNoSizeConstraints</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCNoLiteralPool</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCOptStrategySlave</name>
-                                <version>0</version>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCEncSource</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEncOutput</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEncOutputBom</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCEncInput</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccExceptions2</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccRTTI2</name>
-                                <state>0</state>
-                            </option>
-                        </data>
-                    </settings>
-                </configuration>
-                <configuration>
-                    <name>tz</name>
-                    <settings>
-                        <name>ICCARM</name>
-                        <data>
-                            <version>34</version>
-                            <wantNonLocal>0</wantNonLocal>
-                            <debug>1</debug>
-                            <option>
-                                <name>CCDefines</name>
-                                <state>CONFIG_PLATFORM_8721D</state>
-                                <state>__FPU_PRESENT</state>
-                                <state>CONFIG_USE_MBEDTLS_ROM_ALG</state>
-                                <state>CONFIG_FUNCION_O0_OPTIMIZE</state>
-                                <state>DM_ODM_SUPPORT_TYPE=32</state>
-                                <state>CONFIG_TRUSTZONE_EN=1</state>
-                                <state>CONFIG_BUILD_NONSECURE=1</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocFile</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocComments</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocLine</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCListCFile</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListCMnemonics</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListCMessages</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListAssFile</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCListAssSource</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEnableRemarks</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCDiagSuppress</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagRemark</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagWarning</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagError</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCObjPrefix</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCAllowList</name>
-                                <version>1</version>
-                                <state>11111110</state>
-                            </option>
-                            <option>
-                                <name>CCDebugInfo</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IEndianMode</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IProcessor</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IExtraOptionsCheck</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IExtraOptions</name>
-                                <state>--no_path_in_file_macros</state>
-                                <state>--cmse</state>
-                            </option>
-                            <option>
-                                <name>CCLangConformance</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCSignedPlainChar</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCRequirePrototypes</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCDiagWarnAreErr</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCCompilerRuntimeInfo</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IFpuProcessor</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>OutputFile</name>
-                                <state>$FILE_BNAME$.o</state>
-                            </option>
-                            <option>
-                                <name>CCLibConfigHeader</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>PreInclude</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraOverride</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCIncludePath2</name>
-                                <state>$PROJ_DIR$\..\..\..\component\os\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\portable\IAR\RTL8721D_HP\non_secure</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\portable\IAR\RTL8721D_HP\secure</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\cmsis\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\cmsis\device</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\fwlib\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\fwlib\rom_map_hp</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\app\monitor\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\app\xmodem</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\string</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\os_dep\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\os_dep\..\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\string</state>
-                                <state>$PROJ_DIR$\..\inc\inc_hp</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\platform</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\network</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\network\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\test</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\example</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\utilities</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\si</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\haac</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\hmp3</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\fdk-aac</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\libav</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\fdk-aac\libSYS\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hci</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\osdep</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\phydm</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\rtl8721d</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\rtl8721d\little_driver\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\wlan_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include\lwip</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include\netif</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\port\realtek</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\port\realtek\freertos</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\at_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi\rtw_wpa_supplicant\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\os_dep\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\inic\rtl8721d</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\polarssl-1.3.8\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\ssl_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls-2.4.0\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\targets\hal\rtl8721d\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\targets\hal\rtl8721d\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\hal_ext</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\external\mbedtls-port</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\WACServer\External\Curve25519</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\WACServer\External\GladmanAES</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\chacha</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\poly1305</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\ed25519</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\ed25519\core</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\sha512</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\fatfs\r0.10c\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\fatfs</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\ftl</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\framework\core</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\framework\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\duerapp\include</state>
-                                <state>$TOOLKIT_DIR$\inc\c</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\coap\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\sdio\realtek\sdio_host\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\core\option</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi\rtw_wpa_supplicant\src\crypto</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\amazon\amazon-freertos\lib\include\private</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\emWinLibrary\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Sample\rtl8721d\Config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Sample\rtl8721d\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Third_Party\truetype</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\libcoap\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\lib</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src\hci</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src\vendor_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\common\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_central</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_peripheral</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_scatternet</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_airsync_config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_beacon</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_breeze</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\app</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\gap</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile\client</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile\server</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\os</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\platform</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\stack</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\src\mcu\module\data_uart_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\airsync\1.0.4</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\core\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\ref-impl</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\ref-impl\include\mbedtls</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\dct</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\libao</state>
-                            </option>
-                            <option>
-                                <name>CCStdIncCheck</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCCodeSection</name>
-                                <state>.text</state>
-                            </option>
-                            <option>
-                                <name>IProcessorMode2</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCOptLevel</name>
-                                <state>3</state>
-                            </option>
-                            <option>
-                                <name>CCOptStrategy</name>
-                                <version>0</version>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCOptLevelSlave</name>
-                                <state>3</state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraRules98</name>
-                                <version>0</version>
-                                <state>1000111110110101101110011100111111101110011011000101110111101101100111111111111100110011111001110111001111111111111111111111111</state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraRules04</name>
-                                <version>0</version>
-                                <state>111101110010111111111000110111111111111111111111111110010111101111010101111111111111111111111111101111111011111001111011111011111111111111111</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndRopi</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndRwpi</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndNoDynInit</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccLang</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccCDialect</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccAllowVLA</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccStaticDestr</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccCppInlineSemantics</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccCmsis</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccFloatSemantics</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCOptimizationNoSizeConstraints</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCNoLiteralPool</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCOptStrategySlave</name>
-                                <version>0</version>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCEncSource</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEncOutput</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEncOutputBom</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCEncInput</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccExceptions2</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccRTTI2</name>
-                                <state>0</state>
-                            </option>
-                        </data>
-                    </settings>
-                </configuration>
-                <configuration>
-                    <name>tz (mp)</name>
-                    <settings>
-                        <name>ICCARM</name>
-                        <data>
-                            <version>34</version>
-                            <wantNonLocal>0</wantNonLocal>
-                            <debug>1</debug>
-                            <option>
-                                <name>CCDefines</name>
-                                <state>CONFIG_PLATFORM_8721D</state>
-                                <state>__FPU_PRESENT</state>
-                                <state>CONFIG_USE_MBEDTLS_ROM_ALG</state>
-                                <state>CONFIG_FUNCION_O0_OPTIMIZE</state>
-                                <state>DM_ODM_SUPPORT_TYPE=32</state>
-                                <state>CONFIG_TRUSTZONE_EN=1</state>
-                                <state>CONFIG_BUILD_NONSECURE=1</state>
-                                <state>CONFIG_MP_INCLUDED</state>
-                                <state>CONFIG_BT_MP</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocFile</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocComments</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPreprocLine</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCListCFile</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListCMnemonics</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListCMessages</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCListAssFile</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCListAssSource</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEnableRemarks</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCDiagSuppress</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagRemark</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagWarning</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCDiagError</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CCObjPrefix</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCAllowList</name>
-                                <version>1</version>
-                                <state>11111110</state>
-                            </option>
-                            <option>
-                                <name>CCDebugInfo</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IEndianMode</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IProcessor</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IExtraOptionsCheck</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IExtraOptions</name>
-                                <state>--no_path_in_file_macros</state>
-                                <state>--cmse</state>
-                            </option>
-                            <option>
-                                <name>CCLangConformance</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCSignedPlainChar</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCRequirePrototypes</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCDiagWarnAreErr</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCCompilerRuntimeInfo</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IFpuProcessor</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>OutputFile</name>
-                                <state>$FILE_BNAME$.o</state>
-                            </option>
-                            <option>
-                                <name>CCLibConfigHeader</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>PreInclude</name>
-                                <state></state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraOverride</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCIncludePath2</name>
-                                <state>$PROJ_DIR$\..\..\..\component\os\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\portable\IAR\RTL8721D_HP\non_secure</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.2.0\Source\portable\IAR\RTL8721D_HP\secure</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\cmsis\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\cmsis\device</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\fwlib\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\fwlib\rom_map_hp</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\app\monitor\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\app\xmodem</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\string</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\misc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\os_dep\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\os_dep\..\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\soc\realtek\amebad\swlib\string</state>
-                                <state>$PROJ_DIR$\..\inc\inc_hp</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\platform</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\network</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\network\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\test</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\example</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\utilities</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\si</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\haac</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\hmp3</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\fdk-aac</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\libav</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\fdk-aac\libSYS\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hci</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\osdep</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\phydm</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\rtl8721d</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\hal\rtl8721d\little_driver\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\wlan_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include\lwip</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\src\include\netif</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\port\realtek</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\lwip\lwip_v2.0.2\port\realtek\freertos</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\at_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi\rtw_wpa_supplicant\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\os\os_dep\include\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\inic\rtl8721d</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\polarssl-1.3.8\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\ssl_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls-2.4.0\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\ssl\mbedtls_ram_map\rom</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\targets\hal\rtl8721d\</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\targets\hal\rtl8721d\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\mbed\hal_ext</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\external\mbedtls-port</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\WACServer\External\Curve25519</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\WACServer\External\GladmanAES</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\chacha</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\poly1305</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\ed25519</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\ed25519\core</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\apple\homekit\crypto\sha512</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\fatfs\r0.10c\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\fatfs</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\ftl</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\framework\core</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\libduer-device\framework\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\baidu\duerapp\include</state>
-                                <state>$TOOLKIT_DIR$\inc\c</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\coap\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\sdio\realtek\sdio_host\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\drivers\wlan\realtek\src\core\option</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\api\wifi\rtw_wpa_supplicant\src\crypto</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\amazon\amazon-freertos\lib\include\private</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\emWinLibrary\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Sample\rtl8721d\Config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Sample\rtl8721d\hal</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\ui\emwin\Third_Party\truetype</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\network\libcoap\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\lib</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src\hci</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\amebad\src\vendor_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\board\common\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_central</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_peripheral</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\ble_scatternet</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_airsync_config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_beacon</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_breeze</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\example\bt_config</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\app</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\gap</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile\client</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\bluetooth\profile\server</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\os</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\platform</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\inc\stack</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\bluetooth\realtek\sdk\src\mcu\module\data_uart_cmd</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\airsync\1.0.4</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\api</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\core\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\ref-impl</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\application\breeze\ref-impl\include\mbedtls</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\file_system\dct</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\src</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\include</state>
-                                <state>$PROJ_DIR$\..\..\..\component\common\audio\a52dec\libao</state>
-                            </option>
-                            <option>
-                                <name>CCStdIncCheck</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCCodeSection</name>
-                                <state>.text</state>
-                            </option>
-                            <option>
-                                <name>IProcessorMode2</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCOptLevel</name>
-                                <state>3</state>
-                            </option>
-                            <option>
-                                <name>CCOptStrategy</name>
-                                <version>0</version>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCOptLevelSlave</name>
-                                <state>3</state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraRules98</name>
-                                <version>0</version>
-                                <state>1000111110110101101110011100111111101110011011000101110111101101100111111111111100110011111001110111001111111111111111111111111</state>
-                            </option>
-                            <option>
-                                <name>CompilerMisraRules04</name>
-                                <version>0</version>
-                                <state>111101110010111111111000110111111111111111111111111110010111101111010101111111111111111111111111101111111011111001111011111011111111111111111</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndRopi</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndRwpi</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCPosIndNoDynInit</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccLang</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccCDialect</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccAllowVLA</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccStaticDestr</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccCppInlineSemantics</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccCmsis</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>IccFloatSemantics</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCOptimizationNoSizeConstraints</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCNoLiteralPool</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCOptStrategySlave</name>
-                                <version>0</version>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCEncSource</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEncOutput</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>CCEncOutputBom</name>
-                                <state>1</state>
-                            </option>
-                            <option>
-                                <name>CCEncInput</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccExceptions2</name>
-                                <state>0</state>
-                            </option>
-                            <option>
-                                <name>IccRTTI2</name>
-                                <state>0</state>
-                            </option>
-                        </data>
-                    </settings>
-                </configuration>
-            </file>
-            <file>
                 <name>$PROJ_DIR$\..\..\..\component\common\example\audio_sport\audio_opus_encode\audio_opus_encode.c</name>
                 <excluded>
                     <configuration>is</configuration>
@@ -17843,7 +16383,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -18217,7 +16757,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -18594,7 +17134,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -18971,7 +17511,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -19395,7 +17935,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -19767,7 +18307,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -20142,7 +18682,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -20517,7 +19057,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>0</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -20963,7 +19503,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>1</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -21302,6 +19842,10 @@
                                 <name>IccRTTI2</name>
                                 <state>0</state>
                             </option>
+                            <option>
+                                <name>OICompilerExtraOption</name>
+                                <state>1</state>
+                            </option>
                         </data>
                     </settings>
                 </configuration>
@@ -21310,7 +19854,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>1</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -21651,6 +20195,10 @@
                                 <name>IccRTTI2</name>
                                 <state>0</state>
                             </option>
+                            <option>
+                                <name>OICompilerExtraOption</name>
+                                <state>1</state>
+                            </option>
                         </data>
                     </settings>
                 </configuration>
@@ -21659,7 +20207,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>1</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -22000,6 +20548,10 @@
                                 <name>IccRTTI2</name>
                                 <state>0</state>
                             </option>
+                            <option>
+                                <name>OICompilerExtraOption</name>
+                                <state>1</state>
+                            </option>
                         </data>
                     </settings>
                 </configuration>
@@ -22008,7 +20560,7 @@
                     <settings>
                         <name>ICCARM</name>
                         <data>
-                            <version>34</version>
+                            <version>35</version>
                             <wantNonLocal>1</wantNonLocal>
                             <debug>1</debug>
                             <option>
@@ -22350,6 +20902,10 @@
                                 <name>IccRTTI2</name>
                                 <state>0</state>
                             </option>
+                            <option>
+                                <name>OICompilerExtraOption</name>
+                                <state>1</state>
+                            </option>
                         </data>
                     </settings>
                 </configuration>
@@ -22443,7 +20999,7 @@
                 <settings>
                     <name>ICCARM</name>
                     <data>
-                        <version>34</version>
+                        <version>35</version>
                         <wantNonLocal>0</wantNonLocal>
                         <debug>1</debug>
                         <option>
@@ -22804,7 +21360,7 @@
                 <settings>
                     <name>ICCARM</name>
                     <data>
-                        <version>34</version>
+                        <version>35</version>
                         <wantNonLocal>0</wantNonLocal>
                         <debug>1</debug>
                         <option>
@@ -23167,7 +21723,7 @@
                 <settings>
                     <name>ICCARM</name>
                     <data>
-                        <version>34</version>
+                        <version>35</version>
                         <wantNonLocal>0</wantNonLocal>
                         <debug>1</debug>
                         <option>
@@ -23530,7 +22086,7 @@
                 <settings>
                     <name>ICCARM</name>
                     <data>
-                        <version>34</version>
+                        <version>35</version>
                         <wantNonLocal>0</wantNonLocal>
                         <debug>1</debug>
                         <option>
