@@ -1,0 +1,13 @@
+project/realtek_amebaD_va0_example/EWARM-RELEASE/Debug/
+*.dep
+*.log
+*.cspy.bat
+*.cspy.ps1
+*.driver.xcl
+*.general.xcl
+*.wsdt
+*.crun
+*.dbgdt
+*.dnx
+NULL
+build_info.h
